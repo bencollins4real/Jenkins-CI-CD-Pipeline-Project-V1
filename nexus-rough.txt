@@ -1,5 +1,9 @@
 WfjhKp1dnQwHMiue/yIgi1RnvgQqkS1J94VVc2PDM3M=
 
+<?xml version="1.0"?>
+<settingsSecurity>
+   <master>{WfjhKp1dnQwHMiue/yIgi1RnvgQqkS1J94VVc2PDM3M=}</master>
+</settingsSecurity>
 
 LxIfJVRw8wcHKRyKpKIWGSbEue1rWZoDAuogtDRtwmU=
 
