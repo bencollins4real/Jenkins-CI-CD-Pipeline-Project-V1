@@ -1,6 +1,31 @@
-Fd0GxstpQGoHkW33RAk8U0Fsy7cnNSCFQQp0XjmvVwI=
+WfjhKp1dnQwHMiue/yIgi1RnvgQqkS1J94VVc2PDM3M=
 
-<?xml version="1.0"?>
-<settingsSecurity>
-   <master>{Fd0GxstpQGoHkW33RAk8U0Fsy7cnNSCFQQp0XjmvVwI=}</master>
-</settingsSecurity>S
+
+LxIfJVRw8wcHKRyKpKIWGSbEue1rWZoDAuogtDRtwmU=
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings xmlns="http://maven.apache.org/POM/4.0.0"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+  <localRepository>/var/lib/jenkins/.m2/repository</localRepository>
+
+<servers>
+   <server>git
+        <id>nexus</id>
+        <username>admin</username>
+        <password>{LxIfJVRw8wcHKRyKpKIWGSbEue1rWZoDAuogtDRtwmU=}</password>
+    </server>
+</servers>
+
+<mirrors>
+    <mirror>
+      <id>nexus</id>
+      <name>nexus</name>
+      <url>http://172.31.7.119:8081/repository/maven_project/</url>
+      <mirrorOf>*</mirrorOf>
+    </mirror>
+  </mirrors>
+
+</settings>
