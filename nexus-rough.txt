@@ -1,11 +1,11 @@
-WfjhKp1dnQwHMiue/yIgi1RnvgQqkS1J94VVc2PDM3M=
+cxfEARbi+PoHElhQ7K8LMgtgfgGEuC8vuellNnVIeu8=
 
 <?xml version="1.0"?>
 <settingsSecurity>
-   <master>{WfjhKp1dnQwHMiue/yIgi1RnvgQqkS1J94VVc2PDM3M=}</master>
+   <master>{cxfEARbi+PoHElhQ7K8LMgtgfgGEuC8vuellNnVIeu8=}</master>
 </settingsSecurity>
 
-LxIfJVRw8wcHKRyKpKIWGSbEue1rWZoDAuogtDRtwmU=
+Sfk/dUllHjMHvN8ELMz9V+5Vsz6/Anwg6s1lmaekmHo=
 
 <?xml version="1.0" encoding="UTF-8"?>
 
@@ -19,7 +19,7 @@ LxIfJVRw8wcHKRyKpKIWGSbEue1rWZoDAuogtDRtwmU=
    <server>git
         <id>nexus</id>
         <username>admin</username>
-        <password>{LxIfJVRw8wcHKRyKpKIWGSbEue1rWZoDAuogtDRtwmU=}</password>
+        <password>{Sfk/dUllHjMHvN8ELMz9V+5Vsz6/Anwg6s1lmaekmHo=}</password>
     </server>
 </servers>
 
